@@ -1,0 +1,10 @@
+WebshopID,ClientID,ClientName,ClientAddress
+1,1,Frank,Street1
+2,1,Frank,Street1
+2,2,Bob,Street2
+1,2,Bob,Street2
+1,3,George,Street3
+2,3,George,Street3
+1,4,Andrew,Street4
+1,1,Frank,Street1
+1,1,Fra1nk,Street1

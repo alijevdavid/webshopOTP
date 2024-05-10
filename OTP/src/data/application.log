@@ -1,0 +1,10 @@
+máj. 10, 2024 11:13:58 DU. com.otp.webshop.file.read.ReadCSV readCSVFile
+WARNING: A customer with this ID, in this Webshop already exists! Webshop number: 1, Client ID: 1, Name: Frank, lives in Street1
+máj. 10, 2024 11:13:58 DU. com.otp.webshop.file.read.ReadCSV readCSVFile
+WARNING: A customer with this ID, in this Webshop already exists! Webshop number: 1, Client ID: 1, Name: Frank, lives in Street1
+máj. 10, 2024 11:13:58 DU. com.otp.webshop.file.read.ReadCSV readCSVFile
+WARNING: A payment with this Client ID, in this Webshop already exists! Webshop number: 1, Client ID: 1, Payment method: CARD, paid 114 321 Ft, Card number: 0000-0000-0000-0001, payment date: 2024-01-01
+máj. 10, 2024 11:13:58 DU. com.otp.webshop.file.read.ReadCSV readCSVFile
+WARNING: The bank account number is invalid! Webshop number: 2, Client ID: 4, Payment method: TRANSFER, paid 7 534 778 Ft, Bank account number: 00000000-00000000-000000004, payment date: 2024-01-07
+máj. 10, 2024 11:13:58 DU. com.otp.webshop.file.read.ReadCSV readCSVFile
+WARNING: A payment with this Client ID, in this Webshop already exists! Webshop number: 2, Client ID: 2, Payment method: TRANSFER, paid 753 778 Ft, Bank account number: 00000000-00000000-00000004, payment date: 2024-01-07
