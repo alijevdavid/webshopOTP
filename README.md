@@ -18,7 +18,7 @@ This simple Java application is designed to manage customers and their payments 
 - report02.csv: Holds the webshop revenue report.
 
 ### com.otp.webshop:
-- .data: Contains the stored data that was read from the CSV files in 2 lists, and many methods that help getting the necessary entities.
+- .data: Contains the stored data that was read from the CSV files in 2 lists, and many methods that help reaching the necessary entities. Follows the Singleton pattern.
 - .entity: Contains the entities.
 - .exception: Contains one NotFoundException.
 - .file: Contains the file manipulating packages: writing, reading, logging.
